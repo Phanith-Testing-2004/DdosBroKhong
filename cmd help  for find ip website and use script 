@@ -1,0 +1,9 @@
+ping (www.example.com)
+nmap (ip_show) -vv for find port
+
+
+
+
+
+Attack
+python3 ddos_attack.py ip_target -p port -t 200
